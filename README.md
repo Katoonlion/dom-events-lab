@@ -1,3 +1,3 @@
 # DOM-Events-LAB
 # Calculator
-![Calculator](https://imgur.com/a/ktWdjUE)
+![Calculator](https://i.imgur.com/9eqbjGA.jpeg)
